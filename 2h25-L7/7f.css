@@ -1,0 +1,37 @@
+.p
+{
+    font-family: Arial;
+    margin-bottom: 8px;
+    color: rgb(100, 100, 100);
+    font-weight: lighter;
+}
+.input
+{
+    border-radius: 4px;
+    margin-left: 1px;
+    height: 29px;
+    width: 330px;
+    border-color: rgb(100, 100, 100);
+}
+.p1
+{
+    font-family: Arial;
+    font-weight: lighter;
+    font-size: 16px;
+    margin-top: 18px;
+}
+.button
+{
+    margin-top: 8px;
+    background-color: rgb(10, 102, 194);
+    color:white;
+    width: 330px;
+    text-align: center;
+    padding-right: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+}

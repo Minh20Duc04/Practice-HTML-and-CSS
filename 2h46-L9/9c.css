@@ -1,0 +1,14 @@
+.box-service
+{
+    border-style: solid;
+    border-color: rgb(150, 150, 150);
+    width:300px;
+    padding-left:15px;
+    padding-top: 1px;
+    padding-bottom: 20px;
+    border-width: 1px;  
+}
+.text
+{
+    font-family: Arial;
+}
